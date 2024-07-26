@@ -78,9 +78,6 @@ By providing a holistic suite of resources and recommendations, our platform aim
 
    <img width="454" alt="Screenshot 2024-04-30 at 9 26 41 AM" src="https://github.com/gjyotk/Womens-Health-Recommendation-System/assets/112189682/40150ef3-5280-4b53-a97c-50bf36825968">
 
-- UI/UX:
-
-   <img width="454" alt="Screenshot 2024-04-30 at 9 26 41 AM" src="https://github.com/gjyotk/Womens-Health-Recommendation-System/assets/112189682/7d6008d7-71e1-4329-a1ca-5f6eb3b86baf">
 
 
 
