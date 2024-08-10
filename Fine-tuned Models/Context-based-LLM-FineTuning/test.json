@@ -1,0 +1,163 @@
+[
+    {
+    "context": "Challenges associated with Menstrual Hygiene Management include lack of access to affordable menstrual products, inadequate sanitation facilities, cultural taboos and stigmas, and limited knowledge about menstrual hygiene.",
+    "qas": [
+        {
+        "id": "00001",
+        "is_impossible": false,
+        "question": "What are some challenges associated with Menstrual Hygiene ?",
+        "answers": [
+            {
+            "text": "lack of access to affordable menstrual products, inadequate sanitation facilities, cultural taboos and stigmas, and limited knowledge about menstrual hygiene",
+            "answer_start": 38
+            }
+        ]
+    }
+    ]
+    },
+    {
+    "context": "Menstrual Hygiene Management (MHM) refers to the practices and facilities needed to ensure that menstruating individuals can manage their menstruation with dignity, including access to menstrual products, proper sanitation facilities, and education about menstrual hygiene.",
+    "qas": [
+        {
+        "id": "00002",
+        "is_impossible": false,
+        "question": "What is Menstrual Hygiene Management (MHM)?",
+        "answers": [
+            {
+            "text": "methods to ensure the menstruals can manage their menstruation with dignity, including access to menstrual products, proper sanitation facilities, and education about menstrual hygiene ",
+            "answer_start": 74
+            }
+        ]
+        }
+    ]
+    },
+    {
+    "context": "Menstrual products should be disposed of according to local waste management guidelines. Some products, like according to local waste management guidelines.",
+    "qas": [
+        {
+        "id": "00003",
+        "is_impossible": false,
+        "question": "How should menstrual products be properly disposed of?",
+        "answers": [
+            {
+            "text": "in accordance with local waste management guidelines and according to local waste management guidelines",
+            "answer_start": 21
+            }
+        ]
+        }
+    ]
+    },
+    {
+    "context": "Menstrual cups are reusable, environmentally friendly, cost-effective over time, and can be worn for longer periods compared to tampons or pads.",
+    "qas": [
+        {
+        "id": "00004",
+        "is_impossible": false,
+        "question": "What are the advantages of using menstrual cups?",
+        "answers": [
+            {
+            "text": "eusable, environmentally friendly, cost-effective over time, and can be worn for longer periods",
+            "answer_start": 68
+            }
+        ]
+        }
+    ]
+    },
+    {
+    "context": "Menstrual disorders are diagnosed through medical history, physical examination, and sometimes diagnostic tests such as ultrasound or blood tests. Treatment options depend on the specific disorder but through medical history, physical examination, and sometimes diagnostic tests such as ultrasound or blood tests.",
+    "qas": [
+        {
+        "id": "00005",
+        "is_impossible": false,
+        "question": "How are menstrual disorders diagnosed and treated?",
+        "answers": [
+            {
+            "text": "through medical history, physical examination, and sometimes diagnostic tests such as ultrasound or blood tests and treated  through medical history, physical examination, and sometimes diagnostic tests such as ultrasound or blood tests",
+            "answer_start": 58
+            }
+        ]
+        }
+    ]
+    },
+    {
+    "context": "Some common menstrual disorders include dysmenorrhea (menstrual cramps), menorrhagia (heavy menstrual bleeding), amenorrhea (absence of menstruation), and polycystic ovary syndrome (PCOS).",
+    "qas": [
+        {
+        "id": "00006",
+        "is_impossible": false,
+        "question": "What are some common menstrual disorders?",
+        "answers": [
+            {
+            "text": "dysmenorrhea (menstrual cramps), menorrhagia (heavy menstrual bleeding), amenorrhea (absence of menstruation), and polycystic ovary syndrome (PCOS)",
+            "answer_start": 54
+            }
+        ]
+        }
+    ]
+    },
+    {
+    "context": "Menstrual materials are the materials used to capture and contain menstrual blood, including sanitary pads, cloths, tampons, or cups, which can be disposable or reusable, purchased or non-purchased products.",
+    "qas": [
+        {
+        "id": "00007",
+        "is_impossible": false,
+        "question": "What are menstrual materials?",
+        "answers": [
+            {
+            "text": "used to capture and contain menstrual blood, including sanitary pads, cloths, tampons, or cups, which can be disposable or reusable",
+            "answer_start": 35
+            }
+        ]
+        }
+    ]
+    },
+    {
+    "context": "Dysmenorrhea is the medical term for menstrual cramps, caused by uterine contractions. Primary dysmenorrhea refers to recurrent, crampy pain occurring with menses in the absence of a disorder, while secondary dysmenorrhea refers to menstrual pain associated with an underlying pelvic pathology (disorder).",
+    "qas": [
+        {
+        "id": "00008",
+        "is_impossible": false,
+        "question": "What is Primary dysmenorrhea?",
+        "answers": [
+            {
+            "text": "recurrent, crampy pain occurring with menses in the absence of a disorder",
+            "answer_start": 42
+            }
+        ]
+        }
+    ]
+    },
+    {
+    "context": "a healthy menstrual cycle is defined as having menstrual cycles lasting 21–35 days, a menstrual cycle variation of 5–7 days yearly, menstrual flow during 2–7 days, and bleeding between 25–80 ml per menstruation.",
+    "qas": [
+        {
+        "id": "00009",
+        "is_impossible": false,
+        "question": "What is a healthy menstrual cycle?",
+        "answers": [
+            {
+            "text": "having menstrual cycles lasting 21–35 days, a menstrual cycle variation of 5–7 days yearly, menstrual flow during 2–7 days, and bleeding between 25–80 ml per menstruation",
+            "answer_start": 26
+            }
+        ]
+        }
+    ]
+    },
+    {
+    "context": "Throughout the menstrual cycle, features and symptoms can vary based on the hormonal changes occurring in different phases. Features that increase at the same point in the cycle may indeed have the same physiological cause, reflecting the body's response to changes in hormone levels.",
+    "qas": [
+        {
+        "id": "00010",
+        "is_impossible": false,
+        "question": "How do symptoms vary throughout the cycle?",
+        "answers": [
+            {
+            "text": "symptoms can vary based on the hormonal changes occurring in different phases. Features that increase at the same point in the cycle may indeed have the same physiological cause, reflecting the body's response to changes in hormone levels.",
+            "answer_start": 44
+            }
+        ]
+        }
+    ]
+    }
+
+]

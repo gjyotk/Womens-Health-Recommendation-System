@@ -1,0 +1,194 @@
+[
+    {
+    "context": "A normal menstrual cycle typically ranges from 21 to 35 days, with the average cycle lasting around 28 days.",
+    "qas": [
+        {
+        "id": "00001",
+        "is_impossible": false,
+        "question": "What is a normal menstrual cycle length?",
+        "answers": [
+            {
+            "text": "21 to 35 days",
+            "answer_start": 71
+            }
+        ]
+        }
+    ]
+    },
+    {
+    "context": "Common causes of irregular periods include hormonal imbalances, stress, excessive exercise, weight changes, thyroid disorders, and certain medical conditions.",
+    "qas": [
+        {
+        "id": "00002",
+        "is_impossible": false,
+        "question": "What are common causes of irregular periods?",
+        "answers": [
+            {
+            "text": "hormonal imbalances, stress, excessive exercise, weight changes, thyroid disorders, and certain medical conditions",
+            "answer_start": 28
+            }   
+        ]
+        }
+    ]
+    },
+    {
+    "context": "Menstrual cramps can be alleviated through various methods including over-the-counter pain relievers, applying heat to the abdomen, gentle exercise, relaxation techniques, and dietary changes.",
+    "qas": [
+        {
+        "id": "00003",
+        "is_impossible": false,
+        "question": "How can I alleviate menstrual cramps?",
+        "answers": [
+            {
+            "text": "over-the-counter pain relievers, applying heat to the abdomen, gentle exercise, relaxation techniques, and dietary changes",
+            "answer_start": 63
+            }
+        ]
+        }
+    ]
+    },
+    {
+    "context": "Signs of a heavy menstrual flow include soaking through one or more pads or tampons every hour for several consecutive hours, passing large blood clots, and experiencing symptoms like fatigue and shortness of breath.",
+    "qas": [
+        {
+        "id": "00004",
+        "is_impossible": false,
+        "question": "What are the signs of a heavy menstrual flow?",
+        "answers": [
+            {
+            "text": "soaking through one or more pads or tampons every hour for several consecutive hours, passing large blood clots, and experiencing symptoms like fatigue and shortness of breath",
+            "answer_start": 69
+            }
+        ]
+        }
+    ]
+    },
+    {
+        "context": "it is common for some individuals to experience mood swings, irritability, or changes in mood before and during menstruation due to hormonal fluctuations..",
+        "qas": [
+            {
+            "id": "00005",
+            "is_impossible": false,
+            "question": "Is it normal to experience mood swings during menstruation?",
+            "answers": [
+                {
+                "text": "Yes",
+                "answer_start": 15
+                }
+            ]
+            }
+        ]
+    },
+    {
+        "context": "Signs of a menstrual disorder include irregular periods, extremely heavy or light periods, severe menstrual cramps, prolonged periods, and other abnormal menstrual symptoms that interfere with daily life.",
+        "qas": [
+            {
+            "id": "00006",
+            "is_impossible": false,
+            "question": "How do I know if I have a menstrual disorder?",
+            "answers": [
+                {
+                "text": "irregular periods, extremely heavy or light periods, severe menstrual cramps, prolonged periods",
+                "answer_start": 52
+                }
+            ]
+            }
+        ]
+    },
+    {
+        "context": "Natural remedies for PMS include dietary changes (such as reducing caffeine and increasing intake of fruits and vegetables), regular exercise, stress management techniques (such as yoga and meditation), and herbal supplements.",
+        "qas": [
+            {
+            "id": "00007",
+            "is_impossible": false,
+            "question": "What are some natural remedies for PMS (premenstrual syndrome)?",
+            "answers": [
+                {
+                "text": "reducing caffeine and increasing intake of fruits and vegetables, regular exercise, stress management techniques ",
+                "answer_start": 44
+                }
+            ]
+            }
+        ]
+    },
+    {
+        "context": " birth control methods such as hormonal contraceptives can regulate and sometimes even eliminate menstrual periods. However, they can also cause changes in menstrual flow and regularity.",
+        "qas": [
+            {
+            "id": "00008",
+            "is_impossible": false,
+            "question": "Can birth control affect my menstrual cycle?",
+            "answers": [
+                {
+                "text": "Yes, they can regulate and sometimes even eliminate menstrual periods and cause changes in menstrual flow and regularity",
+                "answer_start": 77
+                }
+            ]
+            }
+        ]
+    },
+    {
+        "context": "Potential causes of missed periods other than pregnancy include stress, hormonal imbalances, excessive exercise, rapid weight loss or gain, thyroid disorders, polycystic ovary syndrome (PCOS), and certain medications..",
+        "qas": [
+            {
+            "id": "00009",
+            "is_impossible": false,
+            "question": "What are the potential causes of missed periods other than pregnancy",
+            "answers": [
+                {
+                "text": "stress, hormonal imbalances, excessive exercise, rapid weight loss or gain, thyroid disorders, polycystic ovary syndrome (PCOS), and certain medications",
+                "answer_start": 53
+                }
+            ]
+            }
+        ]
+    },
+    {
+        "context": "You can track your menstrual cycle by keeping a calendar, using smartphone apps designed for menstrual tracking, or using a physical tracker to monitor the start and end dates of your periods, as well as any associated symptoms.",
+        "qas": [
+            {
+            "id": "00010",
+            "is_impossible": false,
+            "question": "How can I track my menstrual cycle effectively?",
+            "answers": [
+                {
+                "text": " calendar, using smartphone apps designed for menstrual tracking, or using a physical tracker",
+                "answer_start": 21
+                }
+            ]
+            }
+        ]
+    },
+    {
+        "context": "Girls face various challenges related to menstrual health, including difficulties accessing information and social support, coping with behavioral restrictions, encountering stigma surrounding menstruation, and managing menstrual bleeding and pain. Additionally, they may experience fear and distress associated with menstruation, which can impact their school attendance and participation.",
+        "qas": [
+            {
+            "id": "00011",
+            "is_impossible": false,
+            "question": "What are some of the challenges young girls face regarding menstrual health?",
+            "answers": [
+                {
+                "text": "difficulties accessing information and social support, coping with behavioral restrictions, encountering stigma surrounding menstruation, and managing menstrual bleeding and pain and may experience fear and distress associated with menstruation",
+                "answer_start": 24
+                }
+            ]
+            }
+        ]
+    },
+    {
+        "context": "Age-appropriate education, addressing shame and taboos, ensuring access to menstrual resources and WASH (Water, Sanitation, and Hygiene) facilities, and providing adequate menstrual pain relief are crucial components of a comprehensive menstrual health response.",
+        "qas": [
+            {
+            "id": "00012",
+            "is_impossible": false,
+            "question": "What are some important components of a comprehensive menstrual health response?",
+            "answers": [
+                {
+                "text": "Age-appropriate education, addressing shame and taboos, ensuring access to menstrual resources and WASH (Water, Sanitation, and Hygiene) facilities, and providing adequate menstrual pain relief",
+                "answer_start": 64
+                }
+            ]
+            }
+        ]
+    }
+]
